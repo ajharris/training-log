@@ -1,0 +1,45 @@
+[
+  {
+    "name": "BBB Ramp - Pull",
+    "type_tags": ["bbb"],
+    "entries": [
+      {
+        "category": "lift",
+        "name": "Pull-ups",
+        "tags": ["bbb", "ramp"],
+        "sets": [
+          { "reps": 5, "load": 0, "unit": "bw" },
+          { "reps": 5, "load": 10, "unit": "lb", "rpe": 7, "rest_sec": 60 }
+        ],
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Solo Challenge Day 1",
+    "type_tags": ["solo"],
+    "entries": [
+      {
+        "category": "grappling",
+        "name": "Knee Slice",
+        "tags": ["solo", "day-1"],
+        "metric": { "type": "reps", "value": 50 },
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Peloton Zone 2",
+    "type_tags": ["peloton"],
+    "entries": [
+      {
+        "category": "cardio",
+        "name": "Peloton Ride",
+        "tags": ["zone2"],
+        "metric": { "type": "minutes", "value": 25 },
+        "extras": { "avg_output": 180, "zone": "Zone 2" },
+        "notes": ""
+      }
+    ]
+  }
+]

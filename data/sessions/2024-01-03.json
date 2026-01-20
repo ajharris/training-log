@@ -1,0 +1,36 @@
+{
+  "id": "7e9c5f86-1a5f-4baf-9ae5-1e0f99e6dcea",
+  "date": "2024-01-03",
+  "type_tags": ["bbb", "solo", "peloton"],
+  "notes": "Sample session for walkthrough.",
+  "entries": [
+    {
+      "id": "93256f4b-832f-48c6-8f3d-50b0a3c67c31",
+      "category": "lift",
+      "name": "Pull-ups",
+      "tags": ["bbb", "ramp"],
+      "sets": [
+        { "reps": 5, "load": 0, "unit": "bw" },
+        { "reps": 5, "load": 10, "unit": "lb", "rpe": 7, "rest_sec": 60 }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "6f3cf2d5-3b26-4cdd-a792-19a56f4fd70f",
+      "category": "grappling",
+      "name": "Knee Slice",
+      "tags": ["solo", "day-1"],
+      "metric": { "type": "reps", "value": 50 },
+      "notes": ""
+    },
+    {
+      "id": "8b6b3524-3c3f-4a42-8ec8-6862e9830c9b",
+      "category": "cardio",
+      "name": "Peloton Ride",
+      "tags": ["zone2"],
+      "metric": { "type": "minutes", "value": 25 },
+      "extras": { "avg_output": 180, "zone": "Zone 2" },
+      "notes": ""
+    }
+  ]
+}
