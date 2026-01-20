@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Pull-ups",
+    "category": "lift",
+    "default_unit": "bw",
+    "aliases": ["Chin-ups"]
+  },
+  {
+    "name": "Trap Bar Deadlift",
+    "category": "lift",
+    "default_unit": "lb"
+  },
+  {
+    "name": "Knee Slice",
+    "category": "grappling"
+  },
+  {
+    "name": "Solo Shrimp",
+    "category": "grappling"
+  },
+  {
+    "name": "Peloton Ride",
+    "category": "cardio"
+  },
+  {
+    "name": "Hip Mobility Flow",
+    "category": "mobility"
+  }
+]
